@@ -4,7 +4,7 @@
 /**
  * main - reset_to_98
  *
- * reset_to_98
+ * reset_to_98 - Entry
  *
  * @n: - pinter to int
  *
