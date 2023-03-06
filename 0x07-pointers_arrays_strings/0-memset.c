@@ -3,7 +3,7 @@
 
 /**
  * _memset - fills memory with a constant byte,
- * main - entry 
+ * main - entry
  * @s: the mwmory area to bi filled.
  * @b: the constant byte to be used for filling.
  * @n: the number of bytes to be filled.
